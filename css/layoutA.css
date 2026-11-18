@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+nav {
+    background-color: #fbc4d2;
+    width: 20%;
+    padding: 20px;
+}
+
+.kolom-kanan {
+    display: flex;
+    flex-direction: column;
+    width: 78%;
+}
+
+header, footer {
+    background-color: #e6de7a;
+    padding: 20px;
+    height: 70px;
+}
+
+.tengah {
+    display: flex;
+    flex: 1;
+}
+
+article {
+    background-color: #ffffff;
+    width: 73%;
+    padding: 20px;
+}
+
+aside {
+    background-color: #00e5ff;
+    width: 28%;
+    padding: 20px;
+}

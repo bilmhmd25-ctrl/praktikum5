@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    padding: 20px;
+}
+
+
+.box-green {
+    background-color: #a9dfbf;
+    height: 75px;
+    margin-bottom: 15px;
+}
+
+.row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.box-yellow {
+    background-color: #f4d03f;
+    width: 20%;
+    height: 100px;
+}
+
+.box-orange {
+    background-color: #eb7d34;
+    width: 80%;
+    height: 100px;
+}
+
+.box-blue {
+    background-color: #5dade2;
+    width: 80%;
+    height: 100px;
+}
